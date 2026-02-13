@@ -113,7 +113,5 @@ I like understanding how systems work internally — not just writing code that 
 ---
 [![](https://visitcount.itsvg.in/api?id=gauravyadav6681&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
-
 > "I don't just write code. I try to understand the system behind the code."
 
