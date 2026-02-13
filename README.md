@@ -1,6 +1,28 @@
-# Hi, I'm Gaurav Yadav 👋
-<br>💻 Java Backend Developer passionate about building scalable and production-ready systems.<br><br>I mainly work with Java & Spring Boot and enjoy designing APIs, <br>optimizing performance, and solving real-world backend problems. <br>I like understanding how systems work internally — not just writing code that runs, <br>but code that scales.
 
+# Hi, I'm Gaurav Yadav 👋
+
+💻 **Java Backend Developer** passionate about building scalable and production-ready systems.
+
+I mainly work with **Java & Spring Boot** and enjoy designing APIs, optimizing performance, and solving real-world backend problems.  
+I like understanding how systems work internally — not just writing code that runs, but code that scales.
+
+---
+
+## 🚀 What I Do
+- Build REST APIs using Spring Boot
+- Work with databases (SQL / Oracle / MySQL)
+- Implement business logic & backend architecture
+- Debug production issues & performance bottlenecks
+- Explore System Design (HLD + LLD)
+
+---
+
+## 🧠 Currently Learning
+- System Design & Scalability
+- Microservices Architecture
+- Caching & Messaging Queues
+- Spring Batch & Background Processing
+- Cloud concepts
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaurav-yadav-4673971a0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravyadav6681@gmail.com) 
