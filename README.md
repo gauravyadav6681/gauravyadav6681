@@ -1,4 +1,4 @@
-```md
+
 # Hi, I'm Gaurav Yadav 👋
 
 💻 **Java Backend Developer | Spring Boot | System Design Learner**
@@ -73,4 +73,4 @@ I like understanding how systems work internally — not just writing code that 
 ---
 
 > "I don't just write code. I try to understand the system behind the code."
-```
+
