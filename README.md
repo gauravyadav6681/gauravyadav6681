@@ -58,8 +58,8 @@ I like understanding how systems work internally — not just writing code that 
 
 ---
 
-## 📊 GitHub Stats
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravyadav6681&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gauravyadav6681&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" /> </p>
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=gauravyadav6681&theme=tokyonight)
