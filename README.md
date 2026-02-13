@@ -95,7 +95,9 @@ I like understanding how systems work internally — not just writing code that 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 ---
+
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=gauravyadav6681&theme=tokyonight)
 
