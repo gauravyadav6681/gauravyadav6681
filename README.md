@@ -20,7 +20,7 @@ I like understanding how systems work internally — not just writing code that 
 
 ## 🚀 What I Do
 - Build REST APIs using Spring Boot
-- Work with databases (SQL / Oracle / MySQL)
+- Work with databases (SQL / Oracle / MySQL / Postgres)
 - Implement business logic & backend architecture
 - Debug production issues & performance bottlenecks
 - Explore System Design (HLD + LLD)
@@ -36,12 +36,20 @@ I like understanding how systems work internally — not just writing code that 
 - Cloud basics
 
 ---
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaurav-yadav-4673971a0/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravyadav6681@gmail.com) 
 
-## 💻 Tech Stack
+---
+
+
 
 ### 🧠 Backend
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/SpringMVC-6DB33F?style=for-the-badge)
+![Spring Data JPA](https://img.shields.io/badge/SpringDataJPA-6DB33F?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -84,21 +92,24 @@ I like understanding how systems work internally — not just writing code that 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gauravyadav6681&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gauravyadav6681&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravyadav6681&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ---
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=gauravyadav6681&theme=tokyonight)
 
 ---
 
-## 📫 Connect With Me
-- Add your LinkedIn here
-- Add your Email here
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=gauravyadav6681&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=gauravyadav6681&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
